@@ -13,6 +13,24 @@ For scheduling ical has to work.
 
 # Architecture
 
+When starting the app for the first time:
+
+I. Collect info like name, password, etc. to create a profile.
+II. Self Evaluation
+  1. Mission Statement (Revision tracking) Review at regular intervals
+    a. Values - Clearly list what is most important to you.
+    b. Roles - List which roles you fill in life that are most important
+    b. Vision - How would you like to be described at your funeral? 
+    c. Purpose - What do you 
+    
+  2. Freeform self evaluation - Complete at regular intervals
+    a. What is going well? - List specific evidence of . 
+    b. What is going poorly? - List specific evidence. 
+    c. What has changed? - Write down what you have learned and how your point of view has changed. Identify beliefs or opinions that you maintain that you are unsure of.
+    d. What can I do to change - Identify things that are in your control. Identify things that are not in your control. 
+
+
+
 At the top there exists a personal mission statement (Optionally a vision statement as well). Nice to have some sort of guide to help develop this mission statement. Focus on principles vs centers. "To be a good father/worker/neighbor/etc. i will have \[some principle\]" I.e. Define what you want to become.
 
 At the next level there are goals. Goals should align with the overall mission. Goals can be grouped into categories (work/health/financial/custom/etc.) Goals can be ranked/weighted by importance. Goals should be SMART. It would be nice to have some sort of visual representation to show how priorities are distributed across categories to attain a life balance. I.e. Define what you intend to accomplish along the road to becomming.
@@ -36,4 +54,48 @@ Goals are not an accounting of how much or how many of a thing you have done. An
 Journal is a must. Nice to have markdown support. "Captain's log."
 
 Need to look at a franklin planner system and model this similaraly.
+
+## Insights into the psychology behind this
+
+The goal of this app is to be a tool to facilitate self-improvement.
+
+Self-improvement is defined as becoming a beter individual in reality (not just from one person's point of view). People generally are motivated to improve themselves.
+
+### Self-evaluation motives
+
+https://en.wikipedia.org/wiki/Self-evaluation_motives
+
+It has been well studied and shown that people generally want to understand who they are. Ultimately, one must know themself to effectively understand who they want to become.
+
+Why would someone want to evaluate themselves? The motivation to self-evaluate is broken into three sub-motivations.
+
+* Self-Enhancement - the desire to maintain a positive self image. People want to feel imporant; like they are enhanced.
+* Self-Assesment - the desire to obtain an accurate vieow of the self wether positive or negative.
+* Self-Verification - the desire to confirm previously held beliefs about one's self wether desireable or undesireable.
+
+The better question is why *should* someone evaluate themselves?
+
+If we make the assumption that self-evaluation is effective, than tautologically we will find the answers to the important questions about ourselves. 
+
+#### Self-Enhancement
+This is a controversial one. On one hand, it is good to evaluate youself positively, to see the good in yourself, and to have a good self-esteem. On the other hand, people generally hold unrealistic views of themselves and think they are superior than they really are. The notion of a "healthy optimism" or "high self-esteem" has been shown with substantial evidence to be a good thing. To be able to identify the good in one's self is good. However, generally people aren't very realistic in their self-enhancement and fall into three illusions:
+
+* Above-average effect - unrealistically believing that one's self is better than average.
+* Illusions of control - overestimating the effect people have on the outcomes of their circumstances. (e.g. if I throw the dice just right, I can get them to turn up how I want)
+* Unrealistic Optimisim - incorrectly evaluating future outcomes positively ignoring past evidence or without evidence at all.
+
+When undergoing self-evaluation, whether deliberate or not, people will self-enhance even if percieved that this is pridefull and selfish, it's going to happen do some degree. Self-evaluation in for this purpose has an impacton a persons feelings and thoughts about themselves, however in regard to characteristics that are unmodifiable.
+
+#### Self-assesment
+People want to know the truth about themselves. People want to know where they stack up. This is satisfied by highly diagnostic information and evidence. Self-evaluation for this purpose is associated with a change in behavior, especially in regard to characteristics that are modifiable.
+
+#### Self-Verification
+People tend to have a deeply fixed perceptions of the world and seek to verify their believes regardless of if they are positive, negative, or true or false. The more firmly held a belief, the more people prefer diagnostic information regarding that belief. People like to say "Aha! I knew it." People tend to disregard information that goes against what they believe about themselves, more so if they feel like that characteristic is unmodifiable.
+
+Self-evalauation for this purpose is associated with a change in how one thinks about themselves, albeit conditionally.
+
+
+7 habits does a great job of putting this in lay terms, e.g. Circles of influence, paradigm shifts, etc. Perhaps 7 habits implies that sucessful people are more prone to be motivated by self-assesment rather than by self-enhancemnt/self-verification.
+
+Regardless of why someone might want to evaluate themself, the question still remains of *how* can this evaluation be done? I think it is important to take into consideration these motivations and try to curb self-enhancement and self-verification toward self-assesment.
 
